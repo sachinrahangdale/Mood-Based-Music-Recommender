@@ -12,7 +12,7 @@ A Python-based application that recommends music based on the user's mood.
 
 ## 🛠️ Technologies Used
 - Python
-- (इतर वापरलेली libraries इथे लिही)
+-( all libraries )
 
 ## 👨‍💻 Author
 Sachin Rahangdale
